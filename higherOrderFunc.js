@@ -1,7 +1,7 @@
 // higher Order Function
 function cha () {
   let x = 10;
-  return funtion con (p) {
+  return function con (p) {
     x++;
     return x + p;
   }
